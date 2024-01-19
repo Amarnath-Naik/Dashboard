@@ -3,20 +3,20 @@
 
 # Features
 # Visualizes essential sales data, including:
-# Sales volume by peoples,their income , or  expenditures 
-# Revenue trends
+ Sales volume by peoples,their income , or  expenditures 
+ Revenue trends
 
-# Profit vs revenues 
+ Profit vs revenues 
 
-# Interactive elements for data exploration 
-# Customizable charts and filters for tailored analysis
-# Usage
-# Prerequisites:
+ Interactive elements for data exploration 
+ Customizable charts and filters for tailored analysis
+ Usage
+ Prerequisites:
 
-# Microsoft Excel (or compatible spreadsheet software)
-# To use the dashboard:
+ Microsoft Excel (or compatible spreadsheet software)
+ To use the dashboard:
 
-# Download the sales_dashboard.xlsx file.
-# Open it in Excel.
-# Enable any macros to enable interactive features.
-# Explore the dashboard using the available charts and filters.
+ Download the sales_dashboard.xlsx file.
+ Open it in Excel.
+ Enable any macros to enable interactive features.
+ Explore the dashboard using the available charts and filters.
