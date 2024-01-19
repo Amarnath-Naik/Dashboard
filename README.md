@@ -1,8 +1,8 @@
 # Sales Dashboard in Excel
 # This repository contains a sales dashboard built using Microsoft Excel. It provides insights into key sales metrics to track performance and inform decision-making.
 
-# Features
-# Visualizes essential sales data, including:
+ Features
+ Visualizes essential sales data, including:
  Sales volume by peoples,their income , or  expenditures 
  Revenue trends
 
